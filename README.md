@@ -1,4 +1,2 @@
 ## to start this projet
-yarn start 
-or
-npm run dev
+irshad-portfolio73092.netlify.app
